@@ -10,12 +10,5 @@ package porto;
  * @author Gui
  */
 public class Porto {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
     
 }
